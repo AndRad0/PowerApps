@@ -1,4 +1,4 @@
-# PowerApps repo
+# PowerApps repo - feel free to contribute and add your components
 https://docs.microsoft.com/en-us/power-apps/maker/canvas-apps/create-component
 1) Download the component file
 
